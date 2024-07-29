@@ -1,0 +1,21 @@
+* {
+    font-family: "Didact Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+main {
+
+    height: 72vh;
+    justify-content: start;
+    align-items: center;
+    margin: 10vh;
+    text-align: justify;
+}
+
+#intro {
+    margin-top: 2vh;
+    height: 600px;
+    text-align: center;
+}
+
